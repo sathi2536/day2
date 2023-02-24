@@ -1,0 +1,12 @@
+The document object and the window object are two important objects in the JavaScript environment, and they serve different purposes.
+
+Document object: 
+This object represents the HTML document displayed in the browser window. 
+It is responsible for handling the document structure, elements, and their attributes. 
+It provides access to the content of the document, such as text, images, and links. 
+The document object can be accessed using the "document" keyword.
+
+Window object: 
+This object represents the browser window or tab that displays the HTML document. 
+It is responsible for managing the window properties and methods, such as opening and closing windows, resizing and scrolling, and handling events. 
+The window object can be accessed using the "window" keyword.
